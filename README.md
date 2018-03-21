@@ -9,9 +9,10 @@ Mac running OS X 10.12 or later
 
 ## Screenshots of the App
 
-![Alt text](C:\Users\RamyAimanSabry\Documents\GitHub\Dice-App\Image3.jpeg?raw=true "Optional Title")
-![Alt text](C:\Users\RamyAimanSabry\Documents\GitHub\Dice-App\Image3.jpeg?raw=true "Optional Title")
 
+![image1](https://user-images.githubusercontent.com/17670361/37718177-cf58a51e-2d2a-11e8-8be5-4214909de001.jpeg)
+![image2](https://user-images.githubusercontent.com/17670361/37718178-cfd0b478-2d2a-11e8-97eb-aa7ae697e885.jpeg)
+![image3](https://user-images.githubusercontent.com/17670361/37718179-d02a2c92-2d2a-11e8-90d2-a90869ac86ce.jpeg)
 
 ## Installing the App on your iPhone for the first time
 ```
